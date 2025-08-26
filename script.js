@@ -8,7 +8,7 @@ const fileInput = promptForm.querySelector("#file-input");
 const fileUploadWrapper = promptForm.querySelector(".file-upload-wrapper");
 const themeToggle = document.querySelector("#theme-toggle-btn")
 
-const API_KEY = "AIzaSyBr3ZXjTAWeBLbPL_nqHG3WRRPLLAaX3WE";
+const API_KEY = "";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 
@@ -236,6 +236,7 @@ themeToggle.addEventListener("click", () =>{
 
 promptForm.addEventListener("submit", handleFormSubmit);
 promptForm.querySelector("#added-file-btn").addEventListener("click", () => fileInput.click());
+
 
 
 
