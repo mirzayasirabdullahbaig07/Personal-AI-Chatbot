@@ -1,37 +1,43 @@
-# 🤖 Gemini AI Chatbot
+# Personal AI Chatbot 🤖  
 
-Welcome to the **Gemini AI Chatbot Project** 🎉  
-This is a lightweight yet powerful **web-based chatbot** built with **HTML, CSS, and JavaScript**, powered by the **Google Gemini API**.  
-The project was built during a **Hackathon**, with the goal of creating an **AI-driven conversational assistant** that can run directly in the browser without requiring a complex backend.
+A fully interactive AI-powered chatbot built with **HTML, CSS, and JavaScript**, integrated with **Google Gemini API** for real-time responses. This project mimics a conversational AI assistant with support for **file uploads, theme switching, chat history management, and typing effects** to provide a smooth user experience.  
 
 ---
 
-## 🌍 Overview
-The **Gemini AI Chatbot** enables users to have interactive conversations with Google’s **Gemini LLM** (Large Language Model).  
-It demonstrates how cutting-edge AI can be integrated into **frontend-only projects** without requiring heavy infrastructure.  
+## 🚀 Features  
 
-This project is:  
-- 🏆 Hackathon-ready  
-- 🖥 Beginner-friendly for developers  
-- 🌐 Cross-platform (runs in any modern browser)  
-
----
-
-## 🚀 Features
-- 💬 **Real-time AI Conversations** using the Google Gemini API  
-- 🎨 **Minimalist, modern UI** built with HTML & CSS  
-- 📱 **Responsive Design** that adapts to desktop & mobile  
-- ⚡ **Zero Backend Required** – only client-side JavaScript  
-- 🛠 **Easily Customizable** (change styles, prompt settings, etc.)  
-- 🔐 **API Key Integration** for secure access to Gemini  
+- **Conversational AI** – Powered by Gemini API for generating intelligent responses.  
+- **Typing Effect** – Displays bot responses word by word for a realistic experience.  
+- **File Upload Support** – Attach images, PDFs, CSVs, and text files with preview.  
+- **Theme Toggle** – Switch between **dark** and **light** mode with persistence (saved in localStorage).  
+- **Suggestions Panel** – Quick starter prompts for easy interaction.  
+- **Chat Management** – Clear chat history or stop responses anytime.  
+- **Responsive UI** – Works across devices with a clean, modern interface.  
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
-- **AI Engine**: Google Gemini API (REST endpoint)  
-- **Version Control**: Git & GitHub  
+## 🛠️ Tech Stack  
+
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
+- **API:** Google Gemini API (Generative Language)  
+- **Icons:** Google Material Symbols  
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
+
+Personal-AI-Chatbot/
+
+│── index.html # Main HTML file
+│── style.css # Styling (dark & light themes)
+│── script.js # Core chatbot logic & API integration
+│── assets/ # Chatbot logo, icons, and media files
+│── README.md # Project documentation
+
+## ⚙️ Setup Instructions  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/mirzayasirabdullahbaig07/Personal-AI-Chatbot.git
+   cd Personal-AI-Chatbot
+
