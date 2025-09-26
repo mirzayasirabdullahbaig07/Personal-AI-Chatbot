@@ -61,15 +61,8 @@ This chatbot provides **conversational AI**, **file uploads**, **theme switching
 
 ---
 
-## ❤️ Acknowledgements  
-- [TensorFlow/Keras](https://www.tensorflow.org/)  
-- [Scikit-learn](https://scikit-learn.org/stable/)  
-- [Streamlit Documentation](https://docs.streamlit.io/)  
-
----
-
 ## ⚠️ Disclaimer  
 This project is for **educational purposes only**.  
-It is not intended for commercial use but demonstrates **text-based sentiment analysis with AI**.  
+It is not intended for commercial use but demonstrates **Personal AI Chatbot**.  
 
 ---
