@@ -1,43 +1,75 @@
-# Personal AI Chatbot 🤖  
+# 🤖 Personal AI Chatbot
 
-A fully interactive AI-powered chatbot built with **HTML, CSS, and JavaScript**, integrated with **Google Gemini API** for real-time responses. This project mimics a conversational AI assistant with support for **file uploads, theme switching, chat history management, and typing effects** to provide a smooth user experience.  
-
----
-
-## 🚀 Features  
-
-- **Conversational AI** – Powered by Gemini API for generating intelligent responses.  
-- **Typing Effect** – Displays bot responses word by word for a realistic experience.  
-- **File Upload Support** – Attach images, PDFs, CSVs, and text files with preview.  
-- **Theme Toggle** – Switch between **dark** and **light** mode with persistence (saved in localStorage).  
-- **Suggestions Panel** – Quick starter prompts for easy interaction.  
-- **Chat Management** – Clear chat history or stop responses anytime.  
-- **Responsive UI** – Works across devices with a clean, modern interface.  
+A **fully interactive AI-powered chatbot** built with **HTML, CSS, and JavaScript**, integrated with **Google Gemini API** for real-time intelligent responses.  
+This chatbot provides **conversational AI**, **file uploads**, **theme switching**, and **chat history management** with smooth typing effects.
 
 ---
 
-## 🛠️ Tech Stack  
-
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
-- **API:** Google Gemini API (Generative Language)  
-- **Icons:** Google Material Symbols  
+## 🚀 Live Demo  
+🔗 [Live App](https://aichatbot07.netlify.app/)
 
 ---
 
-## 📂 Project Structure  
+## 📌 Features  
+- **Conversational AI**: Uses Google Gemini API for generating intelligent responses.  
+- **Typing Effect**: Responses appear word by word for a natural conversational feel.  
+- **File Upload Support**: Upload images, PDFs, CSVs, and text files with preview.  
+- **Theme Toggle**: Switch between dark and light mode; saves preference in localStorage.  
+- **Suggestions Panel**: Quick prompts for faster interactions.  
+- **Chat Management**: Clear chat history or stop responses anytime.  
+- **Responsive Design**: Works across devices with a clean, modern UI.  
 
-Personal-AI-Chatbot/
+---
 
-│── index.html # Main HTML file
-│── style.css # Styling (dark & light themes)
-│── script.js # Core chatbot logic & API integration
-│── assets/ # Chatbot logo, icons, and media files
-│── README.md # Project documentation
+## 🔍 Usage  
+1. Open `index.html` in a web browser.  
+2. Type a message or select a suggested prompt in the chat box.  
+3. Optionally, upload files (images, PDFs, CSVs, text).  
+4. The chatbot generates responses using **Google Gemini API** in real-time.  
+5. Toggle themes or manage chat history as needed.  
 
-## ⚙️ Setup Instructions  
+---
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/mirzayasirabdullahbaig07/Personal-AI-Chatbot.git
-   cd Personal-AI-Chatbot
+## 📸 Screenshots
+### 🏠 Chat Interface
+<img width="1874" height="904" alt="image" src="https://github.com/user-attachments/assets/93a49105-443f-45ce-bb63-29ef6b694027" />
 
+### 💬 Chat Interaction
+<img width="1911" height="788" alt="image" src="https://github.com/user-attachments/assets/8f2339d5-cb8b-4f4c-bd41-df19c09e32d6" />
+
+### 💬 Chat Interaction
+<img width="1888" height="327" alt="image" src="https://github.com/user-attachments/assets/8f49805b-2f11-4174-ae3f-02ce3d1a0e6f" />
+
+### 💬 Chat Interaction
+<img width="1909" height="452" alt="image" src="https://github.com/user-attachments/assets/28ecf251-9120-4a67-9395-c617d983b337" />
+
+---
+
+## ⚙️ Tech Stack  
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
+- **API**: Google Gemini API (Generative Language)  
+- **Icons**: Google Material Symbols  
+
+---
+
+## 👨‍💻 Author  
+**Mirza Yasir Abdullah Baig**  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
+- 🌐 [Kaggle](https://www.kaggle.com/code/mirzayasirabdullah07)  
+- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+
+---
+
+## ❤️ Acknowledgements  
+- [TensorFlow/Keras](https://www.tensorflow.org/)  
+- [Scikit-learn](https://scikit-learn.org/stable/)  
+- [Streamlit Documentation](https://docs.streamlit.io/)  
+
+---
+
+## ⚠️ Disclaimer  
+This project is for **educational purposes only**.  
+It is not intended for commercial use but demonstrates **text-based sentiment analysis with AI**.  
+
+---
