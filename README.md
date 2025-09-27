@@ -6,7 +6,7 @@ This chatbot provides **conversational AI**, **file uploads**, **theme switching
 ---
 
 ## 🚀 Live Demo  
-🔗 [Live App](https://aichatbot07.netlify.app/)
+🔗 [Live App](https://personalchatbotai07.netlify.app/)
 
 ---
 
